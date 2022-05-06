@@ -1,6 +1,6 @@
 import React from 'react'
-import { primer_componente } from './primer_componente'
-import { segundo_componente } from './segundo_componente'
+import  primer_componente  from './primer_componente'
+import  segundo_componente  from './segundo_componente'
 function tercer_componente(props) {
     const back=props.back
   return (
