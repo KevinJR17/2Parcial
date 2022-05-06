@@ -12,4 +12,4 @@ function segundo_componente() {
   )
 }
 
-export default segundo_componente
+export {segundo_componente}
